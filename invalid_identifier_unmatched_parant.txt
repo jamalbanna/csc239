@@ -1,0 +1,6 @@
+int 2variable = 10;
+if (x > 5) {
+    return y;
+else {
+    return z;
+}

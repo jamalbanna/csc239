@@ -1,0 +1,5 @@
+float pi = 3.14f;
+int count = 20;
+String name = count;
+int age = 10
+int value = 4..5;
